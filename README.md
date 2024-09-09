@@ -157,7 +157,6 @@
 
 - **Version Control**: Git, GitHub
 - **DevOps & Deployment**: Docker
-- **Testing & Debugging**: Unit Tests, Debugging with Visual Studio Code, PyCharm
 - **Server**: Window Server , Linux
 
 ---
