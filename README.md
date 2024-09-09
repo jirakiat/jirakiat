@@ -145,7 +145,7 @@ _Sep 2021 – Aug 2022_
 - **Version Control**: Git, GitHub
 - **DevOps & Deployment**: Docker
 - **Testing & Debugging**: Unit Tests, Debugging with Visual Studio Code, PyCharm
-- **Cloud Platforms**: [Add relevant cloud platforms, if any]
+- **Server**: Window Server , Linux
 
 ---
 
