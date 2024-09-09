@@ -122,6 +122,15 @@
 19. **Evaluate Employees**
 20. **Apply for Work**
 21. **Notification Department**
+22. **E-commerce Selling Trees**
+23. **Hospital Booking System**
+24. **IoT Medicine Dispenser**
+25. **Report Task Schedule (Email Sender)**
+26. **ShabuQuick (Food Order System)**
+27. **Knockdown House for Sale**
+28. **Grand Cos Group (Back Office System)**
+29. **Food Order Realtime System**
+30. **Company Website (KTS Car Service)**
 
 ### 💾 Data Projects
 1. **Big Data Nakhonsawan**
@@ -132,16 +141,7 @@
 6. **Landing Page for All Systems**
 7. **Correcting Errors and Summarizing Thai Text**
 
-### 🛒 E-commerce & IoT Projects
-1. **E-commerce Selling Trees**
-2. **Hospital Booking System**
-3. **IoT Medicine Dispenser**
-4. **Report Task Schedule (Email Sender)**
-5. **ShabuQuick (Food Order System)**
-6. **Knockdown House for Sale**
-7. **Grand Cos Group (Back Office System)**
-8. **Food Order Realtime System**
-9. **Company Website (KTS Car Service)**
+
 
 ---
 
