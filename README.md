@@ -62,35 +62,40 @@
 
 
 ---
-
 ## 🏆 Professional Experience
 
-### **Full-Stack Web Developer**  
-**Things Analytic**  
-*Bangkok, Thailand*  
-_May 2023 – Present_
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <h3>Full-Stack Web Developer</h3>
+  <strong>Things Analytic</strong> - <em>Bangkok, Thailand</em>  
+  <p><strong>May 2023 – Present</strong></p>
+  <ul>
+    <li>Developed backend services using FastAPI for data analytics.</li>
+    <li>Assisted in ETL processes to integrate customer data.</li>
+    <li>Supported a team in communicating with customers to capture requirements and plan projects.</li>
+    <li>Deployed and maintained web services to deliver end-to-end customer solutions.</li>
+  </ul>
+</div>
 
-- Developed backend services using FastAPI for data analytics.
-- Assisted in ETL processes to integrate customer data.
-- Supported a team in communicating with customers to capture requirements and plan projects.
-- Deployed and maintained web services to deliver end-to-end customer solutions.
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <h3>Full-Stack Web Developer & Assistant Department Head</h3>
+  <strong>Srisawan Hospital</strong> - <em>Nakhon Sawan, Thailand</em>  
+  <p><strong>Aug 2022 – May 2023</strong></p>
+  <ul>
+    <li>Managed a programmer team to build and support web applications.</li>
+    <li>Designed solutions for hospital support systems.</li>
+    <li>Collaborated with users and customers for requirements gathering and deployment.</li>
+  </ul>
+</div>
 
-### **Full-Stack Web Developer & Assistant Department Head**  
-**Srisawan Hospital**  
-*Nakhon Sawan, Thailand*  
-_Aug 2022 – May 2023_
-
-- Managed a programmer team to build and support web applications.
-- Designed solutions for hospital support systems.
-- Collaborated with users and customers for requirements gathering and deployment.
-
-### **Full-Stack Web Developer**  
-**Srisawan Hospital**  
-*Nakhon Sawan, Thailand*  
-_Sep 2021 – Aug 2022_
-
-- Built web systems using PHP and Laravel to support hospital operations in Nakhon Sawan and Bangkok.
-- Developed frontend and backend solutions tailored to hospital user needs.
+<div style="border: 1px solid #ddd; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
+  <h3>Full-Stack Web Developer</h3>
+  <strong>Srisawan Hospital</strong> - <em>Nakhon Sawan, Thailand</em>  
+  <p><strong>Sep 2021 – Aug 2022</strong></p>
+  <ul>
+    <li>Built web systems using PHP and Laravel to support hospital operations in Nakhon Sawan and Bangkok.</li>
+    <li>Developed frontend and backend solutions tailored to hospital user needs.</li>
+  </ul>
+</div>
 
 ---
 ## 🎨 Personal Projects & Contributions
@@ -150,6 +155,6 @@ _Sep 2021 – Aug 2022_
 ---
 
 ## 📫 How to Reach Me
-- Email: [your-email@example.com](mailto:j.jiwjirakiat@gmail.com)
+- Email: [j.jiwjirakiat@gmail.com](mailto:j.jiwjirakiat@gmail.com)
 - LinkedIn: [LinkedIn][(https://jirakiat-profile-dev.vercel.app/](https://www.linkedin.com/in/jiw-jirakiat-6820642b7/)
 - Portfolio: [Portfolio](https://jirakiat-profile-dev.vercel.app/)
