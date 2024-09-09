@@ -156,5 +156,5 @@
 
 ## 📫 How to Reach Me
 - Email: [j.jiwjirakiat@gmail.com](mailto:j.jiwjirakiat@gmail.com)
-- LinkedIn: [LinkedIn][(https://jirakiat-profile-dev.vercel.app/](https://www.linkedin.com/in/jiw-jirakiat-6820642b7/)
+- LinkedIn: [LinkedIn](https://jirakiat-profile-dev.vercel.app/](https://www.linkedin.com/in/jiw-jirakiat-6820642b7/)
 - Portfolio: [Portfolio](https://jirakiat-profile-dev.vercel.app/)
